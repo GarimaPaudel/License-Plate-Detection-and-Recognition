@@ -61,8 +61,8 @@ This project is a comprehensive parking management system that utilizes Automati
 
 ## Usage
 
-- **Administrator Dashboard**: Provides real-time monitoring of parking spaces and user management.
-- **User Dashboard**: Allows users to check available parking spaces, vehicle history, and other details.
+-  Provides real-time monitoring of parking spaces and user management.
+-  Allows users to check available parking spaces, vehicle history, and other details.
 
 ## License
 
